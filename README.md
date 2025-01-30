@@ -9,7 +9,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
  - React-hook-form: npm i react-hook-form
  - React-router-dom: npm i react-router-dom
 
-First, run the development server:
+First, run the json-server:
+
+npm run server
+
+Second, run the development server:
 
 ```bash
 npm run dev
