@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "Name": "Produto 1",
+      "Description": "Produto muito bom para limpeza geral",
+      "Value": 20,
+      "Availability": "1"
+    },
+    {
+      "id": "2",
+      "Name": "Produto 2",
+      "Description": "Outro produto de limpeza",
+      "Value": 15,
+      "Availability": "0"
+    },
+    {
+      "id": "3",
+      "Name": "Produto 3",
+      "Description": "Outro produto de limpeza muito bom",
+      "Value": 5,
+      "Availability": "0"
+    },
+    {
+      "id": "4",
+      "Name": "dw",
+      "Description": "dwa",
+      "Value": "23",
+      "Availability": "1"
+    },
+    {
+      "id": "5",
+      "Name": "dwdw",
+      "Description": "dsds",
+      "Value": "3443",
+      "Availability": "0"
+    },
+    {
+      "id": "6",
+      "Name": "vcvc",
+      "Description": "vcvc",
+      "Value": "65",
+      "Availability": "1"
+    },
+    {
+      "id": "7",
+      "Name": "vcxcv",
+      "Description": "vccv",
+      "Value": "545",
+      "Availability": "1"
+    },
+    {
+      "id": "8",
+      "Name": "dwdw",
+      "Description": "dwa",
+      "Value": "77",
+      "Availability": "0"
+    },
+    {
+      "id": "9",
+      "Name": "dwdw",
+      "Description": "dwa",
+      "Value": "54",
+      "Availability": "1"
+    },
+    {
+      "id": "10",
+      "Name": "sdds",
+      "Description": "dscvx",
+      "Value": "87",
+      "Availability": "1"
+    },
+    {
+      "id": "11",
+      "Name": "fdfd",
+      "Description": "ddw",
+      "Value": "77",
+      "Availability": "0"
+    },
+    {
+      "id": 12,
+      "Name": "",
+      "Description": "",
+      "Value": "",
+      "Availability": null
+    },
+    {
+      "id": 13,
+      "Name": "dsds",
+      "Description": "cxxc",
+      "Value": "43",
+      "Availability": "1"
+    },
+    {
+      "id": 14,
+      "Name": "dwdwdwa",
+      "Description": "dwadwdw",
+      "Value": "3443",
+      "Availability": "1"
+    },
+    {
+      "id": 15,
+      "Name": "sssssss",
+      "Description": "sssssssssssssssssssssssssss",
+      "Value": "99999999999999999",
+      "Availability": "1"
+    },
+    {
+      "id": 16,
+      "Name": "dwdwdwa",
+      "Description": "dscvx",
+      "Value": "098",
+      "Availability": "1"
+    },
+    {
+      "id": 17,
+      "Name": "produto de limpeza muito bom",
+      "Description": "è um produto feito pra limpar a lindinha",
+      "Value": "98",
+      "Availability": "1"
+    }
+  ]
+}
